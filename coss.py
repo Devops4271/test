@@ -9,6 +9,5 @@
         name: "{{ java_package }}"
         state: present
 
-
-
 checking purpose
+welcome to devops seesion
